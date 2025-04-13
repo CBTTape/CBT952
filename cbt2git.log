@@ -1,0 +1,5 @@
+2025-04-14 00:26:24.124045 - Received CBT.V508.FILE952.PDS from FILE952.XMI 
+2025-04-14 00:26:24.124998 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE952.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:26:24.125079 - Found @FILE952.txt (text/plain) in CBT.V508.FILE952.PDS, moved to PDS/@FILE952
+2025-04-14 00:26:24.125364 - Found BROOKS.pdf (application/pdf) in CBT.V508.FILE952.PDS, moved to docs/BROOKS.pdf
+2025-04-14 00:26:24.129061 - Found MVTDEBUG.pdf (application/pdf) in CBT.V508.FILE952.PDS, moved to docs/MVTDEBUG.pdf
