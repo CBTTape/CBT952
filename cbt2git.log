@@ -1,5 +1,5 @@
-2025-04-15 07:01:52.468919 - Received CBT.V508.FILE952.PDS from FILE952.XMI 
-2025-04-15 07:01:52.469746 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE952.PDS, moved to PDS/$$$#DATE
-2025-04-15 07:01:52.469887 - Found @FILE952.txt (text/plain) in CBT.V508.FILE952.PDS, moved to PDS/@FILE952
-2025-04-15 07:01:52.470524 - Found BROOKS.pdf (application/pdf) in CBT.V508.FILE952.PDS, moved to docs/BROOKS.pdf
-2025-04-15 07:01:52.489008 - Found MVTDEBUG.pdf (application/pdf) in CBT.V508.FILE952.PDS, moved to docs/MVTDEBUG.pdf
+2025-04-16 01:45:03.454250 - Received CBT.V508.FILE952.PDS from FILE952.XMI 
+2025-04-16 01:45:03.454958 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE952.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:45:03.455023 - Found @FILE952.txt (text/plain) in CBT.V508.FILE952.PDS, moved to PDS/@FILE952
+2025-04-16 01:45:03.455274 - Found BROOKS.pdf (application/pdf) in CBT.V508.FILE952.PDS, moved to docs/BROOKS.pdf
+2025-04-16 01:45:03.459000 - Found MVTDEBUG.pdf (application/pdf) in CBT.V508.FILE952.PDS, moved to docs/MVTDEBUG.pdf
